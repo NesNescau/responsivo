@@ -1,9 +1,9 @@
 :root{
-    --co-de-fundo: #7c1818;
+    --cor-de-fundo: #7c1818;
 }
    
 body {
-    background-color: var(--co-de-fundo);
+    background-color: var(--cor-de-fundo);
 }
 
 h1{
