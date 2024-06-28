@@ -4,3 +4,14 @@ cabecalho_menu-acessorios{
     background-image: url(". ./img?menu.svg");
     display: inline-block;
 }
+
+       cabecalho{
+       background-color: var(--darkred);
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       }
+
+       container{
+        display flex: ;
+       }
